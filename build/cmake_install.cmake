@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach
+# Install script for directory: /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

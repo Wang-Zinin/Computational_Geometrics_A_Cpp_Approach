@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach
+CMAKE_SOURCE_DIR = /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build
+CMAKE_BINARY_DIR = /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/geo.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/geo.dir/flags.make
 CMakeFiles/geo.dir/src/main.cpp.o: CMakeFiles/geo.dir/flags.make
 CMakeFiles/geo.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/geo.dir/src/main.cpp.o: CMakeFiles/geo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/geo.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/geo.dir/src/main.cpp.o -MF CMakeFiles/geo.dir/src/main.cpp.o.d -o CMakeFiles/geo.dir/src/main.cpp.o -c /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/geo.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/geo.dir/src/main.cpp.o -MF CMakeFiles/geo.dir/src/main.cpp.o.d -o CMakeFiles/geo.dir/src/main.cpp.o -c /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/main.cpp
 
 CMakeFiles/geo.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/geo.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/main.cpp > CMakeFiles/geo.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/main.cpp > CMakeFiles/geo.dir/src/main.cpp.i
 
 CMakeFiles/geo.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/geo.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/main.cpp -o CMakeFiles/geo.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/main.cpp -o CMakeFiles/geo.dir/src/main.cpp.s
 
 CMakeFiles/geo.dir/src/geoMath.cpp.o: CMakeFiles/geo.dir/flags.make
 CMakeFiles/geo.dir/src/geoMath.cpp.o: ../src/geoMath.cpp
 CMakeFiles/geo.dir/src/geoMath.cpp.o: CMakeFiles/geo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/geo.dir/src/geoMath.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/geo.dir/src/geoMath.cpp.o -MF CMakeFiles/geo.dir/src/geoMath.cpp.o.d -o CMakeFiles/geo.dir/src/geoMath.cpp.o -c /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/geoMath.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/geo.dir/src/geoMath.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/geo.dir/src/geoMath.cpp.o -MF CMakeFiles/geo.dir/src/geoMath.cpp.o.d -o CMakeFiles/geo.dir/src/geoMath.cpp.o -c /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/geoMath.cpp
 
 CMakeFiles/geo.dir/src/geoMath.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/geo.dir/src/geoMath.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/geoMath.cpp > CMakeFiles/geo.dir/src/geoMath.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/geoMath.cpp > CMakeFiles/geo.dir/src/geoMath.cpp.i
 
 CMakeFiles/geo.dir/src/geoMath.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/geo.dir/src/geoMath.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/geoMath.cpp -o CMakeFiles/geo.dir/src/geoMath.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/geoMath.cpp -o CMakeFiles/geo.dir/src/geoMath.cpp.s
 
 # Object files for target geo
 geo_OBJECTS = \
@@ -109,7 +109,7 @@ geo: CMakeFiles/geo.dir/src/main.cpp.o
 geo: CMakeFiles/geo.dir/src/geoMath.cpp.o
 geo: CMakeFiles/geo.dir/build.make
 geo: CMakeFiles/geo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable geo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable geo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/geo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/geo.dir/clean:
 .PHONY : CMakeFiles/geo.dir/clean
 
 CMakeFiles/geo.dir/depend:
-	cd /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build/CMakeFiles/geo.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/build /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/build /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/build/CMakeFiles/geo.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/geo.dir/depend
 

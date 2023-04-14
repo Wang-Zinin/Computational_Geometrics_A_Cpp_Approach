@@ -1,5 +1,5 @@
 CMakeFiles/geo.dir/src/main.cpp.o: \
- /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/main.cpp \
+ /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -173,4 +173,4 @@ CMakeFiles/geo.dir/src/main.cpp.o: \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/../include/geoMath.h
+ /mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/../include/geoMath.h

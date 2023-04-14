@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/geoMath.cpp" "CMakeFiles/geo.dir/src/geoMath.cpp.o" "gcc" "CMakeFiles/geo.dir/src/geoMath.cpp.o.d"
-  "/mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/src/main.cpp" "CMakeFiles/geo.dir/src/main.cpp.o" "gcc" "CMakeFiles/geo.dir/src/main.cpp.o.d"
+  "/mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/geoMath.cpp" "CMakeFiles/geo.dir/src/geoMath.cpp.o" "gcc" "CMakeFiles/geo.dir/src/geoMath.cpp.o.d"
+  "/mnt/c/again_and_again/codes/Git/Computational-Geometrics-A-C++-Approach/src/main.cpp" "CMakeFiles/geo.dir/src/main.cpp.o" "gcc" "CMakeFiles/geo.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links.
