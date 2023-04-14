@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/geo.dir/src/main.cpp.o CMakeFiles/geo.dir/src/geoMath.cpp.o -o geo 

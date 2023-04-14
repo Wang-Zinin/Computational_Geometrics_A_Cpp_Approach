@@ -1,0 +1,3 @@
+/mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build/CMakeFiles/geo.dir
+/mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build/CMakeFiles/edit_cache.dir
+/mnt/c/again_and_again/codes/Computational-Geometrics-A-C++-Approach/build/CMakeFiles/rebuild_cache.dir
